@@ -1,1 +1,9 @@
+Instal·lació i configuració d'aplicacions web
+
+Comencem descarregant l'arxiu .zip d'OwnCloud, després hi ha que Instal·lar la versió 7.4 de PHP a Ubuntu 24.04 obrint el terminal:
+Instal·leu els requisits previs de PPA:
+sudo apt install software-properties-common -y
+Ara seguim Instal·lant les eines necessàries per treballar amb els arxius de paquets personals (PPA).
+LC_ALL=C.UTF-8 sudo add-apt-repository ppa:ondrej/php -y
+Seguim actualitzant els repositoris
 
