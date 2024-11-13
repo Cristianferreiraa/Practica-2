@@ -83,6 +83,6 @@ usuari: usuario
 contrasenya: password
 base de dades: bbdd
 domini: localhost
-Finalización
+Fin
 
-Si todo ha ido bien, se debería ver el instalador de la aplicación web que se ha descargado y se le pedirá crear un usuario admin y configurar la base de datos.
+Si todo ha ido bien, se debería ver el instalador de la aplicación web que se ha descargado y te pedira crear un usuario admin y configurar la base de datos.
