@@ -1,5 +1,5 @@
 
-A continuación, te presento la configuración detallada de ownCloud:
+A continuación,la configuración detallada de ownCloud:
 
 Instalación de PHP 7.4
 
@@ -114,7 +114,6 @@ Aplicación de permisos a nuestras aplicaciones web
 cd /var/www/html
 sudo chmod -R 775 .
 sudo chown -R usuario:www-data .
-
 
 Acceso a la configuración de ownCloud
 
