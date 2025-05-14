@@ -15,6 +15,10 @@ Actualizar las listas de paquetes y actualizar todos los paquetes existentes:
 
 sudo apt update
 Instalar los requisitos previos de PPA:
+
+![imagen](3.png)
+
+
 sudo apt install software-properties-common -y
 Agregar el repositorio de PHP 7.4:
 LC_ALL=C.UTF-8 sudo add-apt-repository ppa:ondrej/php -y
