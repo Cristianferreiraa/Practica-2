@@ -110,12 +110,8 @@ Aplicar permisos:
 Paso 7: Acceder al navegador y configurar la nube
 
 Acceder al navegador y configurar la nube:
-http://localhost
-Crear un usuario admin y configurar la base de datos:
-usuari: usuario
-contrasenya: password
-base de dades: bbdd
-domini: localhost
+![image](20.png).
+
 Fin
 
 Si todo ha ido bien, se debería ver el instalador de la aplicación web que se ha descargado y te pedira crear un usuario admin y configurar la base de datos.
