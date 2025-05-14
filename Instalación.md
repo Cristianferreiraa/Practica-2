@@ -40,13 +40,12 @@ Actualizar la máquina:
 
 
 Instalar el servidor web Apache2:
+Instalar el servidor de bases de datos MySQL:
+
 
 ![imagen](7.png)
 
 
-sudo apt install -y apache2
-Instalar el servidor de bases de datos MySQL:
-sudo apt install -y mysql-server
 Instalar algunas bibliotecas de PHP:
 
 ![imagen](8.png)
@@ -57,7 +56,6 @@ Reiniciar el servidor Apache2:
 ![imagen](9.png)
 
 
-sudo systemctl restart apache2
 Paso 4: Configurar MySQL
 
 Acceder a la consola de MySQL:
