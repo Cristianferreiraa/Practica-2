@@ -59,15 +59,20 @@ Reiniciar el servidor Apache2:
 Paso 4: Configurar MySQL
 
 Acceder a la consola de MySQL:
-sudo mysql
+
+![image](10.png).
+
 Crear la base de datos:
-CREATE DATABASE bbdd;
+
 Crear un usuario:
-CREATE USER 'usuario'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
 Dar permisos al usuario:
-GRANT ALL ON bbdd.* to 'usuario'@'localhost';
 Salir de la base de datos:
-exit
+![image](11.png).
+![image](12.png).
+
+
+
+
 Probar la conexión a la base de datos:
 mysql -u usuario -p
 Paso 5: Descargar los archivos de la aplicación web
