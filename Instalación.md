@@ -15,6 +15,8 @@ Actualizar las listas de paquetes y actualizar todos los paquetes existentes:
 
 sudo apt update
 Instalar los requisitos previos de PPA:
+Seleccionar la versión de PHP que se desea utilizar:
+
 
 ![imagen](3.png)
 
@@ -24,19 +26,12 @@ sudo apt install software-properties-common -y
 Agregar el repositorio de PHP 7.4:
 LC_ALL=C.UTF-8 sudo add-apt-repository ppa:ondrej/php -y
 Actualizar los repositorios:
-sudo apt update
-Instalar las bibliotecas de PHP 7.4:
-sudo apt install php7.4 -y
-sudo apt install -y php libapache2-mod-php7.4
-sudo apt install -y php7.4-fpm php7.4-common php7.4-mbstring php7.4-xmlrpc php7.4-soap php7.4-gd php7.4-xml php7.4-intl php7.4-mysql php7.4-cli php7.4-ldap php7.4-zip php7.4-curl
+
 
 Seleccionar la versión de PHP que se desea utilizar:
-sudo update-alternatives --config php
-Activar los módulos de Apache2 necesarios:
-sudo a2enmod proxy_fcgi setenvif
-sudo a2enconf php7.4-fpm
 Reiniciar Apache2:
-sudo service apache2 restart
+![imagen](5.png)
+
 Paso 3: Instalar Apache2, MySQL y algunas bibliotecas
 
 Actualizar la máquina:
