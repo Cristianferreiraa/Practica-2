@@ -9,6 +9,10 @@ Paso 2: Instalar la versión 7.4 de PHP
 ![imagen](1.png)
 
 Actualizar las listas de paquetes y actualizar todos los paquetes existentes:
+
+![imagen](2.png)
+
+
 sudo apt update
 Instalar los requisitos previos de PPA:
 sudo apt install software-properties-common -y
