@@ -85,6 +85,7 @@ Ir al directorio /var/www/html:
 cd /var/www/html
 Descomprimir el archivo:
 sudo unzip app-web.zip
+
 NO PONGO CAPTURA DE ESTOS PASOS PORQUE LE HE DADO SINQUERER Y EL UNZIP ME LO A LLENADO Y NO VEO LOS COMANDOS.
 
 Copiar los archivos a la carpeta /var/www/html:
