@@ -1,7 +1,7 @@
 Manual de instalación de ownCloud Server en Ubuntu 24.04
 
 Paso 1: Descargar el archivo .zip de ownCloud Server
-
+(!imagen)Captura de pantalla de 2025-05-14 12-08-48.png
 Descargar el archivo ownCloud Server 20240724.zip desde el sitio web oficial: https://download.owncloud.com/server/stable/owncloud-complete-20240724.zip
 Paso 2: Instalar la versión 7.4 de PHP
 
