@@ -35,6 +35,10 @@ Reiniciar Apache2:
 Paso 3: Instalar Apache2, MySQL y algunas bibliotecas
 
 Actualizar la máquina:
+
+![imagen](6.png)
+
+
 sudo apt update
 sudo apt upgrade
 Instalar el servidor web Apache2:
