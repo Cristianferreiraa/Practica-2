@@ -13,7 +13,6 @@ Actualizar las listas de paquetes y actualizar todos los paquetes existentes:
 ![imagen](2.png)
 
 
-sudo apt update
 Instalar los requisitos previos de PPA:
 Seleccionar la versión de PHP que se desea utilizar:
 
@@ -22,9 +21,8 @@ Seleccionar la versión de PHP que se desea utilizar:
 
 ![imagen](4.png)
 
-sudo apt install software-properties-common -y
 Agregar el repositorio de PHP 7.4:
-LC_ALL=C.UTF-8 sudo add-apt-repository ppa:ondrej/php -y
+
 Actualizar los repositorios:
 
 
@@ -40,6 +38,7 @@ Actualizar la máquina:
 
 
 Instalar el servidor web Apache2:
+
 Instalar el servidor de bases de datos MySQL:
 
 
@@ -65,7 +64,9 @@ Acceder a la consola de MySQL:
 Crear la base de datos:
 
 Crear un usuario:
+
 Dar permisos al usuario:
+
 Salir de la base de datos:
 ![image](11.png).
 ![image](12.png).
@@ -75,6 +76,7 @@ Salir de la base de datos:
 
 Probar la conexión a la base de datos:
 mysql -u usuario -p
+
 Paso 5: Descargar los archivos de la aplicación web
 
 Descargar los archivos de la aplicación web:
