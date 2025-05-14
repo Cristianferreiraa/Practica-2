@@ -75,7 +75,7 @@ Salir de la base de datos:
 
 
 Probar la conexión a la base de datos:
-mysql -u usuario -p
+![image](13.png).
 
 Paso 5: Descargar los archivos de la aplicación web
 
@@ -85,8 +85,13 @@ Ir al directorio /var/www/html:
 cd /var/www/html
 Descomprimir el archivo:
 sudo unzip app-web.zip
+NO PONGO CAPTURA DE ESTOS PASOS PORQUE LE HE DADO SINQUERER Y EL UNZIP ME LO A LLENADO Y NO VEO LOS COMANDOS.
+
 Copiar los archivos a la carpeta /var/www/html:
-sudo cp -R app-web/. /var/www/html
+
+![image](14.png).
+
+
 Eliminar la carpeta creada al descomprimir:
 sudo rm -rf app-web/
 Eliminar el archivo index.html de Apache2:
