@@ -94,16 +94,19 @@ Copiar los archivos a la carpeta /var/www/html:
 
 
 Eliminar la carpeta creada al descomprimir:
-sudo rm -rf app-web/
+![image](15.png).
+
 Eliminar el archivo index.html de Apache2:
-sudo rm -rf /var/www/html/index.html
+![image](16.png).
 Paso 6: Aplicar permisos a las aplicaciones web
 
-Ir al directorio /var/www/html:
-cd /var/www/html
+![image](17.png).
+
+
 Aplicar permisos:
-sudo chmod -R 775 .
-sudo chown -R usuario:www-data .
+![image](18.png).
+![image](19.png).
+
 Paso 7: Acceder al navegador y configurar la nube
 
 Acceder al navegador y configurar la nube:
