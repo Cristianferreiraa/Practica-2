@@ -39,9 +39,12 @@ Actualizar la máquina:
 ![imagen](6.png)
 
 
-sudo apt update
-sudo apt upgrade
 Instalar el servidor web Apache2:
+
+![imagen](7.png)
+![imagen](8.png)
+
+
 sudo apt install -y apache2
 Instalar el servidor de bases de datos MySQL:
 sudo apt install -y mysql-server
