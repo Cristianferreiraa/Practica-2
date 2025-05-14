@@ -18,6 +18,7 @@ Instalar los requisitos previos de PPA:
 
 ![imagen](3.png)
 
+![imagen](4.png)
 
 sudo apt install software-properties-common -y
 Agregar el repositorio de PHP 7.4:
