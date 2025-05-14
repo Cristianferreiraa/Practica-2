@@ -3,6 +3,9 @@ A continuación,la configuración detallada de ownCloud:
 
 1. Acceso al navegador web y configuración de la nube.
 
+![image](20.png).
+
+
 http://localhost
 
 2. Creación de un usuario administrador y la información de la base de datos.
