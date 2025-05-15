@@ -21,20 +21,17 @@ Dominio: localhost
 
 Una vez completada esta configuración inicial, se mostrará la pantalla de inicio de sesión.
 
-![image](21.png).
 
 
 2. Inicio de sesión
 Iniciar sesión en ownCloud utilizando el nombre de usuario y la contraseña configurados en el paso anterior.
 
-Captura:
-22.png
+![image](21.png).
 
 3. Acceso a la sección de usuarios
 Una vez iniciada la sesión, acceder a la sección Users desde el menú lateral. Desde aquí se puede gestionar la creación de nuevos usuarios y administradores.
 
-Captura:
-23.png
+![image](22.png).
 
 4. Gestión de usuarios y carpetas
 Dentro de Users se pueden realizar las siguientes acciones:
