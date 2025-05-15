@@ -42,8 +42,8 @@ Definir cuotas de almacenamiento (desde 1 GB hasta almacenamiento ilimitado).
 
 Crear carpetas por usuario.
 
-Captura:
-24.png
+![image](23.png).
+![image](24.png).
 
 5. Subida de archivos
 A través del botón + es posible:
@@ -56,8 +56,7 @@ Crear carpetas.
 
 Los archivos subidos se almacenan en la nube propia del servidor ownCloud.
 
-Captura:
-25.png
+![image](25.png).
 
 6. Preferencias del usuario
 En el apartado de Preferencias se puede acceder a la configuración del perfil del usuario, donde se permite:
@@ -68,8 +67,7 @@ Configurar el correo electrónico (por ejemplo, una cuenta de Gmail).
 
 Cambiar ajustes personales.
 
-Captura:
-26.png
+![image](26.png).
 
 7. Panel de administración
 Desde el menú Admin, accesible únicamente por usuarios con permisos de administrador, se pueden realizar las siguientes acciones:
@@ -80,8 +78,7 @@ Personalizar distintos aspectos del servidor ownCloud.
 
 Configurar opciones avanzadas de seguridad y rendimiento.
 
-Captura:
-27.png
+![image](27.png).
 
 8. Acceso al Market
 El apartado Market permite ampliar las funcionalidades de ownCloud mediante la instalación de aplicaciones adicionales, como por ejemplo:
@@ -94,8 +91,8 @@ Notas
 
 Gestión de tareas, entre otras
 
-Captura:
-28.png
+![image](28.png).
+![image](29.png).
 
 9. Sección de actividad
 La sección Actividad muestra un historial completo de todas las acciones realizadas en el servidor por el usuario actual. Incluye operaciones como:
@@ -108,6 +105,6 @@ Creación de carpetas
 
 Acciones compartidas
 
-Captura:
-29.png
+![image](28.png).
+![image](30.png).
 
