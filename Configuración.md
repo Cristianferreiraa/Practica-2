@@ -8,24 +8,109 @@ A continuación,la configuración detallada de ownCloud:
 
 http://localhost
 
-2. Creación de un usuario administrador y la información de la base de datos.
+1. Creación del usuario administrador y base de datos
+Durante el proceso de instalación de ownCloud se deben ingresar los siguientes datos para crear el usuario administrador:
 
-usuario: usuario
-contraseña: password
-base de datos: bbdd
-dominio: localhost
+Usuario: usuario
 
-Ya desde ahí te pedirá iniciar sesión, con la sesión iniciada tienes que entrar en users.
-Nada más entrar donde hay un + puedes crear archivos de texto, carpetas o subir documentos del PC.
+Contraseña: password
 
-En el apartado de preferencias te salen todos los ajustes de tu cuenta de ownCloud (perfil, nombre, gmail).
-En los ajustes sale el apartado de Admin donde puedes personalizar cosas de tu ownCloud, como instalar apps o eliminarlas entre otras cosas.
+Base de datos: bbdd
 
-Desde el apartado de users puedes crear carpetas, usuarios y administradores.
-También tiene el apartado de GB que puedes poner desde 1GB hasta ilimitadas para los users que crees.
+Dominio: localhost
 
-También se puede subir archivos y que se guarden en la nube.
-Como documentos, fotos, documentos compartidos.
+Una vez completada esta configuración inicial, se mostrará la pantalla de inicio de sesión.
 
-A parte hay el apartado de Market donde tienes varias opciones para ampliar tu ownCloud con varias aplicaciones dentro de la app como calendario, galería, etc.
-Tienes el apartado de actividad donde pone todo lo que has hecho en el ownCloud en los ultimos días y donde puedes ver todas tus actividades.
+![image](21.png).
+
+
+2. Inicio de sesión
+Iniciar sesión en ownCloud utilizando el nombre de usuario y la contraseña configurados en el paso anterior.
+
+Captura:
+22.png
+
+3. Acceso a la sección de usuarios
+Una vez iniciada la sesión, acceder a la sección Users desde el menú lateral. Desde aquí se puede gestionar la creación de nuevos usuarios y administradores.
+
+Captura:
+23.png
+
+4. Gestión de usuarios y carpetas
+Dentro de Users se pueden realizar las siguientes acciones:
+
+Crear nuevos usuarios y asignarles permisos.
+
+Definir cuotas de almacenamiento (desde 1 GB hasta almacenamiento ilimitado).
+
+Crear carpetas por usuario.
+
+Captura:
+24.png
+
+5. Subida de archivos
+A través del botón + es posible:
+
+Subir documentos desde el equipo local.
+
+Crear archivos de texto.
+
+Crear carpetas.
+
+Los archivos subidos se almacenan en la nube propia del servidor ownCloud.
+
+Captura:
+25.png
+
+6. Preferencias del usuario
+En el apartado de Preferencias se puede acceder a la configuración del perfil del usuario, donde se permite:
+
+Modificar el nombre.
+
+Configurar el correo electrónico (por ejemplo, una cuenta de Gmail).
+
+Cambiar ajustes personales.
+
+Captura:
+26.png
+
+7. Panel de administración
+Desde el menú Admin, accesible únicamente por usuarios con permisos de administrador, se pueden realizar las siguientes acciones:
+
+Instalar y desinstalar aplicaciones.
+
+Personalizar distintos aspectos del servidor ownCloud.
+
+Configurar opciones avanzadas de seguridad y rendimiento.
+
+Captura:
+27.png
+
+8. Acceso al Market
+El apartado Market permite ampliar las funcionalidades de ownCloud mediante la instalación de aplicaciones adicionales, como por ejemplo:
+
+Calendario
+
+Galería de imágenes
+
+Notas
+
+Gestión de tareas, entre otras
+
+Captura:
+28.png
+
+9. Sección de actividad
+La sección Actividad muestra un historial completo de todas las acciones realizadas en el servidor por el usuario actual. Incluye operaciones como:
+
+Carga de archivos
+
+Modificación de documentos
+
+Creación de carpetas
+
+Acciones compartidas
+
+Captura:
+29.png
+
